@@ -1,0 +1,63 @@
+body{
+    background-color:wheat;
+}
+
+.title{
+    letter-spacing:5px;
+    font-size:25px;
+    font-weight:bold;
+    font-style:italic;
+    
+}
+#spanner{
+
+    width:100%;
+    background-color:blue;
+}
+.span_button{
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    letter-spacing:5px;
+}
+
+.images{
+    height:300px;
+    width:300px;
+    border-style:dashed;
+    border-width: 3px;
+}
+
+.links{
+    float: left;
+    color:#ffff;
+    padding-top:5px;
+    padding-bottom: 5px;
+     padding-right: 9px;
+     padding-left: 9px;
+    font-family:fantasy;
+    font-size:20px;
+}
+
+
+#show_credits{
+background-color:lightgreen;
+color:black;
+font-size:15px;
+letter-spacing:5px;
+}
+#bullet{
+    text-align:left;
+    padding-top:5px;
+    font-weight:bold;
+    font-style:italic;
+    letter-spacing:3px;
+}
+.certify{
+    color:green;
+    font-style:italic;
+}
+
+#cert{
+    background-image:"background.jpg";
+}
